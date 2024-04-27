@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  27 APR 2024 22:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  27 APR 2024 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -763,19 +763,14 @@ Type  H <return>  for immediate help.
 l.255 \begin{figure*}[H]
                         
 ? 
-
-! LaTeX Error: File `proof6' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.257 ...ludegraphics[width=0.7\textwidth]{proof6}
-                                                  
-? 
+<proof6.png, id=146, 609.27625pt x 302.12875pt>
+File: proof6.png Graphic file (type png)
+<use proof6.png>
+Package pdftex.def Info: proof6.png  used on input line 257.
+(pdftex.def)             Requested size: 298.75264pt x 148.1504pt.
 [8] [9 <./proof1.png> <./Austinbranch.png> <./selfrepo.png> <./proof2.png>]
 [10 <./proof3.png> <./proof4.png> <./proof5.png> <./proof52.png>] [11]
-(INFO1111.bbl
+(INFO1111.bbl [12 <./proof6.png>]
 Underfull \hbox (badness 7256) in paragraph at lines 29--32
 []\T1/cmr/m/n/10.95 University of Penn-syl-va-nia, ``5 key rea-sons why data an
 -a-lyt-ics is im-
@@ -838,9 +833,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--42
 l.74 ..., ``Importance of custom software design &
                                                    development,'' see
 ? 
-[12
+[13
 
-]) [13] (INFO1111.aux)
+]) [14] (INFO1111.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -849,10 +844,10 @@ Package rerunfilecheck Info: File `INFO1111.out' has not changed.
 (rerunfilecheck)             Checksum: DAB7C815A7AB5F6DBE6C5F7AA411DD4D;1793.
  ) 
 Here is how much of TeX's memory you used:
- 11558 strings out of 474457
- 188823 string characters out of 5733348
+ 11540 strings out of 474457
+ 188520 string characters out of 5733348
  1940187 words of memory out of 5000000
- 33680 multiletter control sequences out of 15000+600000
+ 33661 multiletter control sequences out of 15000+600000
  568099 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,767b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -869,9 +864,9 @@ rt/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/d
 avieet/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/
 ec/dpi1037/ecbx1200.pk></Users/davieet/Library/Application Support/MiKTeX/texmf
 s/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on INFO1111.pdf (14 pages, 1416779 bytes).
+Output written on INFO1111.pdf (15 pages, 1441100 bytes).
 PDF statistics:
- 512 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 518 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
