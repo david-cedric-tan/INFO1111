@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1.}Task 1 (Foundation): Core Skills}{2}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1.}Skills for {Data Science}: {FAN, SHING YAM AUSTIN}}{3}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2.}Skills for {SW Development}: {TAN, DAVID CEDRIC CHAN}}{7}{subsection.0.1.2}%
+\contentsline {section}{\numberline {2.}Submission contribution overview}{11}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1.}Submission 1 contribution overview}{11}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2.}Submission 2 contribution overview}{11}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {2.3.}Submission 3 contribution overview}{11}{subsection.0.2.3}%
