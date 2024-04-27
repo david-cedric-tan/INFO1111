@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  27 APR 2024 21:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.3.7)  27 APR 2024 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -670,14 +670,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.219 \begin{figure*}[H]
+l.218 \begin{figure*}[H]
                         
 ? 
-<proof2.png, id=140, 700.6175pt x 345.29pt>
-File: proof2.png Graphic file (type png)
-<use proof2.png>
-Package pdftex.def Info: proof2.png  used on input line 221.
-(pdftex.def)             Requested size: 298.75264pt x 147.23892pt.
+<selfrepo.png, id=140, 710.655pt x 199.74625pt>
+File: selfrepo.png Graphic file (type png)
+<use selfrepo.png>
+Package pdftex.def Info: selfrepo.png  used on input line 220.
+(pdftex.def)             Requested size: 298.75264pt x 83.97209pt.
 
 ! LaTeX Error: Unknown float option `H'.
 
@@ -688,11 +688,11 @@ Type  H <return>  for immediate help.
 l.225 \begin{figure*}[H]
                         
 ? 
-<proof3.png, id=141, 845.1575pt x 437.635pt>
-File: proof3.png Graphic file (type png)
-<use proof3.png>
-Package pdftex.def Info: proof3.png  used on input line 227.
-(pdftex.def)             Requested size: 298.75264pt x 154.70375pt.
+<proof2.png, id=141, 700.6175pt x 345.29pt>
+File: proof2.png Graphic file (type png)
+<use proof2.png>
+Package pdftex.def Info: proof2.png  used on input line 227.
+(pdftex.def)             Requested size: 298.75264pt x 147.23892pt.
 
 ! LaTeX Error: Unknown float option `H'.
 
@@ -703,11 +703,11 @@ Type  H <return>  for immediate help.
 l.231 \begin{figure*}[H]
                         
 ? 
-<proof4.png, id=142, 877.2775pt x 408.52625pt>
-File: proof4.png Graphic file (type png)
-<use proof4.png>
-Package pdftex.def Info: proof4.png  used on input line 233.
-(pdftex.def)             Requested size: 298.75264pt x 139.12149pt.
+<proof3.png, id=142, 845.1575pt x 437.635pt>
+File: proof3.png Graphic file (type png)
+<use proof3.png>
+Package pdftex.def Info: proof3.png  used on input line 233.
+(pdftex.def)             Requested size: 298.75264pt x 154.70375pt.
 
 ! LaTeX Error: Unknown float option `H'.
 
@@ -718,11 +718,11 @@ Type  H <return>  for immediate help.
 l.237 \begin{figure*}[H]
                         
 ? 
-<proof5.png, id=143, 865.2325pt x 299.1175pt>
-File: proof5.png Graphic file (type png)
-<use proof5.png>
-Package pdftex.def Info: proof5.png  used on input line 239.
-(pdftex.def)             Requested size: 298.75264pt x 103.28236pt.
+<proof4.png, id=143, 877.2775pt x 408.52625pt>
+File: proof4.png Graphic file (type png)
+<use proof4.png>
+Package pdftex.def Info: proof4.png  used on input line 239.
+(pdftex.def)             Requested size: 298.75264pt x 139.12149pt.
 
 ! LaTeX Error: Unknown float option `H'.
 
@@ -733,11 +733,11 @@ Type  H <return>  for immediate help.
 l.243 \begin{figure*}[H]
                         
 ? 
-<proof52.png, id=144, 715.67375pt x 261.97874pt>
-File: proof52.png Graphic file (type png)
-<use proof52.png>
-Package pdftex.def Info: proof52.png  used on input line 245.
-(pdftex.def)             Requested size: 298.75264pt x 109.36273pt.
+<proof5.png, id=144, 865.2325pt x 299.1175pt>
+File: proof5.png Graphic file (type png)
+<use proof5.png>
+Package pdftex.def Info: proof5.png  used on input line 245.
+(pdftex.def)             Requested size: 298.75264pt x 103.28236pt.
 
 ! LaTeX Error: Unknown float option `H'.
 
@@ -748,14 +748,34 @@ Type  H <return>  for immediate help.
 l.249 \begin{figure*}[H]
                         
 ? 
-<proof6.png, id=145, 508.90125pt x 372.39125pt>
-File: proof6.png Graphic file (type png)
-<use proof6.png>
-Package pdftex.def Info: proof6.png  used on input line 251.
-(pdftex.def)             Requested size: 298.75264pt x 218.62363pt.
-[8] [9 <./proof1.png> <./Austinbranch.png> <./proof2.png> <./proof3.png>]
-[10 <./proof4.png> <./proof5.png> <./proof52.png>] [11] (INFO1111.bbl [12 <./pr
-oof6.png>]
+<proof52.png, id=145, 715.67375pt x 261.97874pt>
+File: proof52.png Graphic file (type png)
+<use proof52.png>
+Package pdftex.def Info: proof52.png  used on input line 251.
+(pdftex.def)             Requested size: 298.75264pt x 109.36273pt.
+
+! LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 \begin{figure*}[H]
+                        
+? 
+
+! LaTeX Error: File `proof6' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 ...ludegraphics[width=0.7\textwidth]{proof6}
+                                                  
+? 
+[8] [9 <./proof1.png> <./Austinbranch.png> <./selfrepo.png> <./proof2.png>]
+[10 <./proof3.png> <./proof4.png> <./proof5.png> <./proof52.png>] [11]
+(INFO1111.bbl
 Underfull \hbox (badness 7256) in paragraph at lines 29--32
 []\T1/cmr/m/n/10.95 University of Penn-syl-va-nia, ``5 key rea-sons why data an
 -a-lyt-ics is im-
@@ -818,9 +838,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--42
 l.74 ..., ``Importance of custom software design &
                                                    development,'' see
 ? 
-[13
+[12
 
-]) [14] (INFO1111.aux)
+]) [13] (INFO1111.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -829,13 +849,13 @@ Package rerunfilecheck Info: File `INFO1111.out' has not changed.
 (rerunfilecheck)             Checksum: DAB7C815A7AB5F6DBE6C5F7AA411DD4D;1793.
  ) 
 Here is how much of TeX's memory you used:
- 11528 strings out of 474457
- 188393 string characters out of 5733348
+ 11558 strings out of 474457
+ 188823 string characters out of 5733348
  1940187 words of memory out of 5000000
- 33650 multiletter control sequences out of 15000+600000
+ 33680 multiletter control sequences out of 15000+600000
  568099 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,745b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,767b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/davieet/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfo
 ur/jknappen/ec/dpi657/ecbx1000.pk> </Users/davieet/Library/Application Support/
 MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi650/ecbx1200.pk> </Users/davi
@@ -849,9 +869,9 @@ rt/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/d
 avieet/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/
 ec/dpi1037/ecbx1200.pk></Users/davieet/Library/Application Support/MiKTeX/texmf
 s/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on INFO1111.pdf (15 pages, 1404531 bytes).
+Output written on INFO1111.pdf (14 pages, 1416779 bytes).
 PDF statistics:
- 528 PDF objects out of 1000 (max. 8388607)
+ 512 PDF objects out of 1000 (max. 8388607)
  53 named destinations out of 1000 (max. 500000)
  132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
